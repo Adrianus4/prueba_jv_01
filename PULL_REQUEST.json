@@ -1,0 +1,15 @@
+{
+  "title": "feat(servicio-tarjetas): Entrega inicial microservicio Quarkus 3.x",
+  "source_branch": "feature/servicio-tarjetas-quarkus-v1",
+  "target_branch": "main",
+  "author": "Agente DevOps (Fábrica de Agentes)",
+  "reviewers": ["tarjetas"],
+  "description": "Microservicio generado autónomamente con enfoque Contract-First y observabilidad SmallRye.",
+  "status": "OPEN",
+  "checks": {
+    "contract_validated": true,
+    "tests_passed": true,
+    "dockerfile_ready": true,
+    "jenkinsfile_ready": true
+  }
+}
